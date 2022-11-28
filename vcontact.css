@@ -188,7 +188,7 @@ a{
 .hero{
     height: 90vh;
     width: 100%;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.654),rgba(0, 0, 0, 0.877)), url('C:/Users/USER/Desktop/web images/pictures/vimg.webp')  ;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.654),rgba(0, 0, 0, 0.877)), url('./public/vimg.webp')  ;
     background-size: cover;
     background-position: center;
     background-color: black;
